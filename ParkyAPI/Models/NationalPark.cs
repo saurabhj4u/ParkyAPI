@@ -18,6 +18,5 @@ namespace ParkyAPI.Models
         public DateTime Created { get; set; }
         public DateTime Established { get; set; }
 
-
     }
 }
